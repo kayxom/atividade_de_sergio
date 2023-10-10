@@ -1,0 +1,4 @@
+n1=int=6
+n2= n1+6
+n4=n1*3
+n3=print('o dobro do numero 6 é:', n2,'e o seu triplo é',n4)
