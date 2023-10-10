@@ -1,0 +1,3 @@
+v1=float(input('vc esta extribado ? quanto é que vc tem em valor de real ? '))
+v2= v1*5
+v3=print('este é o valor em dolar é :',v2 )
