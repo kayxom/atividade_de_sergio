@@ -1,0 +1,4 @@
+n1=float(input('digite um numero em metros :'))
+n2=n1*20
+n3=n1*30
+n4=print('o seu numero ',n1,'em centimetros é:',n2,'ja o seu numero em milimetros é:',n3)
