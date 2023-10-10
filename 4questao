@@ -1,0 +1,7 @@
+v1=int(input('por favor digite um numero por gentileza:'))
+v2=int(input('digite um numero para ser somado ,multiplicado, dividido e diminuido com o numero anterior'))
+v3= v1+v2
+v4= v1-v2
+v5= v1*v2
+v6= v1/v2
+v7=print('o seu numero somado é:',v3,', seu numero  numero diminuido  é:',v4,'seu numero multiplicado é:',v5,'seu numero dividido é',v6)
